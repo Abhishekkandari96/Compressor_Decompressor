@@ -1,7 +1,7 @@
-package org.example;
+package GUI;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        AppFrame frame =new AppFrame();;
     }
 }
